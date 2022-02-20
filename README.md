@@ -1,4 +1,4 @@
-# Tonic-Userbot Telegram
+# Rizz-Userbot Telegram
 
 </p>
 <p align="center">
@@ -10,19 +10,19 @@
 </p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/33193e0075fc37c000379.jpg">
+  <img src="https://telegra.ph/file/7049c8c46191900d3da11.jpg">
 </p>
 
 ## <p align="center">DEPLOY TO HEROKU</p>
 
-<p align="center"><a href="https://telegram.dog/XTZ_HerokuBot?start=VG9uaWM5OTAvVG9uaWMtVXNlcmJvdCBUb25pYy1Vc2VyYm90">
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Rizz990/Rizz-Userbot">
   <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-aqua?style=flat&logo=heroku" width="325" height="50.100" /></a></p>
 
 
 
 ## Group Support:
 
-   <a href="https://t.me/PrimeSupportGroup"><img src="https://img.shields.io/badge/Group%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
+   <a href="https://t.me/RizzSupportt"><img src="https://img.shields.io/badge/Group%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
 
 ## String Session :
 
