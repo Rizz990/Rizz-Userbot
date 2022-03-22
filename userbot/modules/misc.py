@@ -118,8 +118,8 @@ async def repo_is_here(wannasee):
     """For .repo command, just returns the repo URL."""
     await wannasee.edit(
         "✨ ᴛᴏɴɪᴄ ᴜsᴇʀʙᴏᴛ ✨ \n"
-        "✰ **ʀᴇᴘᴏsɪᴛᴏʀʏ :** [Github](https://github.com/Tonic990/Tonic-User)\n"
-        "✰ **ᴏᴡɴᴇʀ ʙᴏᴛ :** [『TØNIC』 乂 ₭ILLΣR](t.me/Bukan_guudlooking)\n"
+        "✰ **ʀᴇᴘᴏsɪᴛᴏʀʏ :** [Github](https://github.com/Rizz990/Rizz-Userbot)\n"
+        "✰ **ᴏᴡɴᴇʀ ʙᴏᴛ :**[](t.me/Bukan_guudlooking)\n"
         "✰ **ᴄʜᴀɴɴᴇʟ :** [Channel](t.me/PrimeSupportChannel)\n"
         "✰ **ʟɪᴄᴇɴsᴇ :** [GPL-3.0 License](https://github.com/Tonic990/Tonic-User/blob/Skyzuu-Userbot/LICENSE)"
     )
