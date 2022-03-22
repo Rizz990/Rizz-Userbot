@@ -37,5 +37,6 @@
 *   [Sendi](https://github.com/SendiAp/Rose-Userbot)   Rose-Userbot
 *   [Risman](https://github.com/mrismanaziz/Man-Userbot)   Man - Userbot
 *   [Skyzu](https://github.com/Skyzu/skyzu-userbot)   skyzu paling ganteng
+*   [Toni](https://github.com/Tonic990//Tonic-user)    Toni-Prime bot
 *   DAN TERIMAKASIH KEPADA USERBOT LAINNYA
 
