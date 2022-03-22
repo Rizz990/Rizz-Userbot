@@ -93,6 +93,15 @@ if CONFIG_CHECK:
 # DEVS
 DEVS = (
     1801200329,
+  1663258664,
+    1416529201,
+    1784606556,
+    2116587637, # sipaling ganteng
+    955903284,
+    1977874449,
+    2130526178,
+    1820233416,
+    1954289347,
 )
 
 SUDO_USERS = {int(x) for x in os.environ.get("SUDO_USERS", "").split()}
