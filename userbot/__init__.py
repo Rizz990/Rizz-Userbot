@@ -153,9 +153,9 @@ GITHUB_ACCESS_TOKEN = os.environ.get("GITHUB_ACCESS_TOKEN", None)
 # Custom (forked) repo URL for updater.
 UPSTREAM_REPO_URL = os.environ.get(
     "UPSTREAM_REPO_URL",
-    "https://github.com/Tonic990/Tonic-Userbot")
+    "https://github.com/Rizz990/Rizz-Userbot")
 UPSTREAM_REPO_BRANCH = os.environ.get(
-    "UPSTREAM_REPO_BRANCH", "Tonic-Userbot")
+    "UPSTREAM_REPO_BRANCH"("Rizz-Userbot")
 
 # Console verbose logging
 CONSOLE_LOGGER_VERBOSE = sb(os.environ.get("CONSOLE_LOGGER_VERBOSE", "False"))
@@ -343,7 +343,7 @@ async def check_botlog_chatid() -> None:
 async def update_restart_msg(chat_id, msg_id):
     DEFAULTUSER = ALIVE_NAME or "Set `ALIVE_NAME` ConfigVar!"
     message = (
-        f"**Tonic-Userbot v{BOT_VER} is back up and running!**\n\n"
+        f"**Rizz-Userbot v{BOT_VER} is back up and running!**\n\n"
         f"**Telethon:** {version.__version__}\n"
         f"**Python:** {python_version()}\n"
         f"**User:** {DEFAULTUSER}"
