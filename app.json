@@ -1,7 +1,7 @@
 {
-  "name": "✨ ᴛᴏɴɪᴄ-ᴜsᴇʀʙᴏᴛ ✨",
-  "description": "🚫Tonic-Userbot🚫 USERBOT KHUSUS YANG DIGUNAKAN UNTUK BERSENANG-SENANG DI TELEGRAM.",
-  "logo": "https://telegra.ph/file/33193e0075fc37c000379.jpg",
+  "name": "✨ ʀɪᴢᴢ-ᴜsᴇʀʙᴏᴛ​ ✨",
+  "description": "🚫Rizz-Userbot🚫 USERBOT KHUSUS YANG DIGUNAKAN UNTUK BERSENANG-SENANG DI TELEGRAM.",
+  "logo": "https://telegra.ph/file/a45ca336ef2d2f099759e.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -9,7 +9,7 @@
     "modular",
     "productivity"
 ],
-  "repository": "https://github.com/Tonic990/Tonic-User",
+  "repository": "https://github.com/Rizz990/Rizz-Userbot",
   "telegram": "https://t.me/Bukan_guudlooking",
   "success_url": "https://t.me/PrimeSupportGroup",
   "stack": "container",
@@ -28,7 +28,7 @@
     },
     "HEROKU_APP_NAME": {
       "description": "Nama App heroku, Nama App yang paling pertama di isi (liat paling atas)",
-      "required": false
+      "required": talse
     },
     "HEROKU_API_KEY": {
       "description": "Heroku API KEY mu, dapatkan dari web 'https://dashboard.heroku.com/account'",
@@ -49,12 +49,12 @@
     },
     "BOT_TOKEN": {
       "description": "Buat Bot Di @BotFathee Lalu Masukan Token Nya",
-      "required": false
+      "required": true
     },
     "BOT_USERNAME": {
       "description": "Username Bot Kamu Di @BotFather, Pake @",
       "value": "@",
-      "required": false
+      "required": true
     }
   },
   "addons": [
